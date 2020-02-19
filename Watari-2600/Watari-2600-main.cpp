@@ -14,7 +14,7 @@ int main()
 			break;
 		}
 
-		retVal = 0;
+		retVal = 10000;
 	} while (false);
 
 	return retVal;
